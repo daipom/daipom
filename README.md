@@ -3,7 +3,7 @@
 I am a software engineer at [ClearCode Inc](https://www.clear-code.com/).
 We drive forward free softwares and make the business.
 
-Welcome to contact us about enterprise support and sponsoring!
+Please feel free to contact me/us about enterprise support for Fluentd and other various free softwares!
 
 My recent presentations:
 
